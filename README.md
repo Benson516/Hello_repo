@@ -18,7 +18,7 @@ Associate this repository to the remote repository at GitHub
 $ git remote add origin https://github.com/Benson516/Hello_repo.git
 ```
 
-##synchronize between **remote** Github repository and the **local** git repository
+##Synchronize between **remote** Github repository and the **local** git repository
 
 - **remote** Github repository ---> **local** git repository
     ```
